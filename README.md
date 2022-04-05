@@ -1,4 +1,4 @@
-# Make subgraphs never die 🥲
+# Keep subgraphs never die 🥲
 
 **This repository was born because of Subgraph archive policy**
 

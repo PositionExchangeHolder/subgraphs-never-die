@@ -1,4 +1,4 @@
-name: Make subgraphs never die
+name: Keep subgraphs never die
 
 on:
   schedule:
@@ -19,6 +19,6 @@ jobs:
         node-version: 16.13
     - run: npm install
     # Run script
-    - name: Make subgraphs never die
+    - name: Keep subgraphs never die
       run: |-
         node script.js
