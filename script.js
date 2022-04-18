@@ -11,7 +11,8 @@ const APIs = [
   'https://api.thegraph.com/subgraphs/name/gafranslotteria/position-bond-03',
   'https://api.thegraph.com/subgraphs/name/gafranslotteria/position-public-sale',
   'https://api.thegraph.com/subgraphs/name/gafranslotteria/nft-reward-pool',
-  'https://api.thegraph.com/subgraphs/name/gafranslotteria/position-staking-pool'
+  'https://api.thegraph.com/subgraphs/name/gafranslotteria/position-staking-pool',
+  'https://api.thegraph.com/subgraphs/name/gafranslotteria/derivatives'
 ]
 
 const script = async () => {
