@@ -6,6 +6,7 @@ const APIs = [
   'https://api.thegraph.com/subgraphs/name/gafranslotteria/position-referral',
   'https://api.thegraph.com/subgraphs/name/gafranslotteria/position-busd-vault',
   'https://api.thegraph.com/subgraphs/name/gafranslotteria/position-bnb-vault',
+  'https://api.thegraph.com/subgraphs/name/gafranslotteria/position-vaults,
   'https://api.thegraph.com/subgraphs/name/gafranslotteria/position-bond-01',
   'https://api.thegraph.com/subgraphs/name/gafranslotteria/position-bond-02',
   'https://api.thegraph.com/subgraphs/name/gafranslotteria/position-bond-03',
